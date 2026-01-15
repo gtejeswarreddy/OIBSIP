@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>OnlineExaminationSystem</name>
+=======
+	<name>OnlineReservationSystem</name>
+>>>>>>> branch 'master' of https://github.com/gtejeswarreddy/OIBSIP.git
 	<comment></comment>
 	<projects>
 	</projects>
